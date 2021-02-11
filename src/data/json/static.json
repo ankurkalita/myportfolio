@@ -1,0 +1,13 @@
+{
+  "mainLine": "Hi! I'm Ankur.",
+  "typed": [
+    "I'm a Developer.",
+    "I'm a <strong>Full-Stack</strong> Developer.",
+    "I'm a <a href='/swe'><strong>Technical Lead</strong></a>. :)"
+  ],
+  "diploma": {
+    "title": "Bachelor of Technology",
+    "subtitle": "Specialization in Information Technology",
+    "info": "I graduated from Gauhati university institute of science and technology in 2016"
+  }
+}

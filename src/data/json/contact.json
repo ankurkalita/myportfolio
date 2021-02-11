@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Telegram",
+    "url": "https://t.me/kalitaankur",
+    "icon": ["fab", "telegram-plane"],
+    "isMain": true
+  },
+  {
+    "name": "Gmail",
+    "url": "mailto:ankurkalitaofficial@gmail.com",
+    "icon": ["fab", "google-plus"],
+    "isMain": false
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/ankurkalita",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/ankur-kalita-019118125/",
+    "icon": ["fab", "linkedin"],
+    "isMain": false
+  }
+]
