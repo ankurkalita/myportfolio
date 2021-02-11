@@ -26,7 +26,7 @@ operations.
     - Determined coding requirements for site creation, including e-commerce capability, security and specialized scripts.
     - Designed, developed and implemented software applications for website based on analyzed requirements and
 understanding of industry technical standards
-    - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, PHP
+  - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, PHP
 and JSON coding.
 
 - [Quest Innovation](http://www.questinovation.com/)
