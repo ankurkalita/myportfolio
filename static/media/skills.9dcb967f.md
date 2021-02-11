@@ -13,6 +13,7 @@
     - Node.js
     - Express.js
     - MongoDB
+    - GIT
   - Flutter/Dart (newcomer)
   - Docker  (newcomer)
 - In ancient times:
@@ -20,7 +21,9 @@
   - C#/.NET (~1 years)
   - PHP/MySQL (~3 years)
   - C++ (~1year)
-
+- Project Management:
+  - JIRA
+  - Scrum
 ### Preferences 🙏
 
 - [Debian derivatives](https://www.debian.org/) 🐧
