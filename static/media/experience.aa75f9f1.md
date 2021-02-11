@@ -22,9 +22,9 @@ operations.
   - Administration of the VPS server and managed services.
 
 - [Quest Innovation](http://www.questinovation.com/)
-    - Web Developer Sept 2016 - Apr 2017
-    - Determined coding requirements for site creation, including e-commerce capability, security and specialized scripts.
-    - Designed, developed and implemented software applications for website based on analyzed requirements and
+  - Web Developer Sept 2016 - Apr 2017
+  - Determined coding requirements for site creation, including e-commerce capability, security and specialized scripts.
+  - Designed, developed and implemented software applications for website based on analyzed requirements and
 understanding of industry technical standards
   - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, PHP
 and JSON coding.
